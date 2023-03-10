@@ -42,4 +42,4 @@ These are hands-on resources to help you learn the tools and processes used in s
 
 - [Application environments](/labs//application-environments/README.md)
 
-- [Tracking defects](/labs/tracking-defects/README.md)
+- [Tracking defects](/labs/tracking-defects/README.md))
